@@ -13,7 +13,7 @@ export default function Card({ item }) {
         </div>
         <div className="bg-white px-4 py-2 rounded-b-lg mt-1.5 flex md:flex-col items-center md:items-start">
           <img
-            className="rounded-full w-28 h-28 md:w-52 md:h-52 lg:w-64 lg:h-64 object-cover object-center"
+            className="rounded-full w-28 h-28 md:w-52 md:h-52 lg:w-60 lg:h-60 object-cover object-center"
             src="https://kuyou.id/content/images/ctc_2020021605150668915.jpg"
             alt="Pict Card"
           />

@@ -7,7 +7,7 @@ export default function Card({ item }) {
         <div className="bg-white px-4 py-2 rounded-t-lg flex justify-between items-center">
           <div className="">
             Personnel ID: &nbsp;
-            <span className="text-tosca-100">{item.cell}</span>
+            <span className="text-tosca-100">123456</span>
           </div>
           <img src={more} alt="..." />
         </div>

@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/material-tailwind-dashboard-react/static/css/main.f9a9856a.chunk.css",
-    "main.js": "/material-tailwind-dashboard-react/static/js/main.7b655421.chunk.js",
-    "main.js.map": "/material-tailwind-dashboard-react/static/js/main.7b655421.chunk.js.map",
-    "runtime-main.js": "/material-tailwind-dashboard-react/static/js/runtime-main.4a7f41e2.js",
-    "runtime-main.js.map": "/material-tailwind-dashboard-react/static/js/runtime-main.4a7f41e2.js.map",
-    "static/js/2.f0576cd8.chunk.js": "/material-tailwind-dashboard-react/static/js/2.f0576cd8.chunk.js",
-    "static/js/2.f0576cd8.chunk.js.map": "/material-tailwind-dashboard-react/static/js/2.f0576cd8.chunk.js.map",
-    "static/js/3.f107728d.chunk.js": "/material-tailwind-dashboard-react/static/js/3.f107728d.chunk.js",
-    "static/js/3.f107728d.chunk.js.map": "/material-tailwind-dashboard-react/static/js/3.f107728d.chunk.js.map",
-    "index.html": "/material-tailwind-dashboard-react/index.html",
-    "static/css/main.f9a9856a.chunk.css.map": "/material-tailwind-dashboard-react/static/css/main.f9a9856a.chunk.css.map",
-    "static/js/2.f0576cd8.chunk.js.LICENSE.txt": "/material-tailwind-dashboard-react/static/js/2.f0576cd8.chunk.js.LICENSE.txt",
-    "static/media/add.ddccff7e.svg": "/material-tailwind-dashboard-react/static/media/add.ddccff7e.svg",
-    "static/media/attend.5f4a2caf.jpg": "/material-tailwind-dashboard-react/static/media/attend.5f4a2caf.jpg",
-    "static/media/back.1e1946f0.svg": "/material-tailwind-dashboard-react/static/media/back.1e1946f0.svg",
-    "static/media/meet.14a3713a.jpg": "/material-tailwind-dashboard-react/static/media/meet.14a3713a.jpg",
-    "static/media/more.cc6927c2.svg": "/material-tailwind-dashboard-react/static/media/more.cc6927c2.svg",
-    "static/media/next.c642ad6a.svg": "/material-tailwind-dashboard-react/static/media/next.c642ad6a.svg",
-    "static/media/team-1-800x800.fa5a7ac2.jpg": "/material-tailwind-dashboard-react/static/media/team-1-800x800.fa5a7ac2.jpg"
+    "main.css": "/static/css/main.f9a9856a.chunk.css",
+    "main.js": "/static/js/main.98e84933.chunk.js",
+    "main.js.map": "/static/js/main.98e84933.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d980655f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d980655f.js.map",
+    "static/js/2.b26f6f76.chunk.js": "/static/js/2.b26f6f76.chunk.js",
+    "static/js/2.b26f6f76.chunk.js.map": "/static/js/2.b26f6f76.chunk.js.map",
+    "static/js/3.4da846d8.chunk.js": "/static/js/3.4da846d8.chunk.js",
+    "static/js/3.4da846d8.chunk.js.map": "/static/js/3.4da846d8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f9a9856a.chunk.css.map": "/static/css/main.f9a9856a.chunk.css.map",
+    "static/js/2.b26f6f76.chunk.js.LICENSE.txt": "/static/js/2.b26f6f76.chunk.js.LICENSE.txt",
+    "static/media/add.ddccff7e.svg": "/static/media/add.ddccff7e.svg",
+    "static/media/attend.5f4a2caf.jpg": "/static/media/attend.5f4a2caf.jpg",
+    "static/media/back.1e1946f0.svg": "/static/media/back.1e1946f0.svg",
+    "static/media/meet.14a3713a.jpg": "/static/media/meet.14a3713a.jpg",
+    "static/media/more.cc6927c2.svg": "/static/media/more.cc6927c2.svg",
+    "static/media/next.c642ad6a.svg": "/static/media/next.c642ad6a.svg",
+    "static/media/team-1-800x800.fa5a7ac2.jpg": "/static/media/team-1-800x800.fa5a7ac2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a7f41e2.js",
-    "static/js/2.f0576cd8.chunk.js",
+    "static/js/runtime-main.d980655f.js",
+    "static/js/2.b26f6f76.chunk.js",
     "static/css/main.f9a9856a.chunk.css",
-    "static/js/main.7b655421.chunk.js"
+    "static/js/main.98e84933.chunk.js"
   ]
 }
